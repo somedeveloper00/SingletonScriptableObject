@@ -1,0 +1,24 @@
+{
+  "name": "com.somedeveloper.singletonscriptableobject",
+  "version": "1.0.0",
+  "displayName": "Singleton Scriptable Object",
+  "description": "easy Singleton ScriptableObject implementation",
+  "unity": "2021.2",
+  "unityRelease": "13f1",
+  "documentationUrl": "https://github.com/somedeveloper00/SingletonScriptableObject/README.md",
+  "licensesUrl": "https://github.com/somedeveloper00/SingletonScriptableObject/LICENSE.md",
+  "keywords": [
+    "singleton",
+    "so",
+    "singletonscriptableobject",
+    "Scriptable",
+    "object",
+    "ScriptableObject",
+  ],
+  "author": {
+    "name": "SomeDeveloper",
+    "email": "barari.saeed.am@gmail.com",
+    "url": "https://github.com/somedeveloper00"
+  },
+  "hideInEditor": false
+}
