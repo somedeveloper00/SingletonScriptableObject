@@ -15,11 +15,16 @@ That's it! The rest is source generated and handled automatically!
 The goal of this project is to provide a singleton scriptable object solution that has the easiest usage APIs and doesn't get in the way of your workflow. 
 
 ## 🔔 Extra
-You can find the source gen project at [here](https://github.com/somedeveloper00/UnityModelViewAnalyzer.git).
+* You can find the source gen project at [here](https://github.com/somedeveloper00/UnityModelViewAnalyzer.git).
+* Renaming type names are **totally supported!**
+* Exchanging two types' names is **totally supported!**
+
 ## ⚒️ Install
+
 ### UPM
 You can install this as a unity package by following the instructions at [the official manual](https://docs.unity3d.com/Manual/upm-ui-giturl.html). 
 > The package url is `https://github.com/somedeveloper00/SingletonScriptableObject.git`
+
 ### Git Submodule
 clone the repository into your project's Assets/Plugins folder as a submodule:
 ```bash
