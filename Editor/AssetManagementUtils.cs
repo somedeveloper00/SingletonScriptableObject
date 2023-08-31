@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
@@ -55,7 +55,7 @@ public static class AssetManagementUtils {
                 AssetDatabase.CreateAsset(newInstance, FullPath<T>());
                 AssetDatabase.SaveAssets();
             }
-            
+
         } else {
 
             // search to find a valid instance of same type. (Maybe the type has been renamed?)

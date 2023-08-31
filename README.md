@@ -15,7 +15,7 @@ That's it! The rest is source generated and handled automatically!
 The goal of this project is to provide a singleton scriptable object solution that has the easiest usage APIs and doesn't get in the way of your workflow. 
 
 ## 🔔 Extra
-* You can find the source gen project at [here](https://github.com/somedeveloper00/SingletonScritpableObjectSourceGen).
+* You can find the source gen project at [here](https://github.com/somedeveloper00/UnityModelViewAnalyzer.git).
 * Renaming type names are **totally supported!**
 * Exchanging two types' names is **totally supported!**
 
