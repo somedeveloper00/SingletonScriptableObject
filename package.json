@@ -1,6 +1,6 @@
 {
   "name": "com.somedeveloper.singletonscriptableobject",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "Singleton Scriptable Object",
   "description": "easy Singleton ScriptableObject implementation",
   "unity": "2021.2",
